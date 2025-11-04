@@ -36,3 +36,5 @@ out/
 ### VS Code ###
 .vscode/
 
+result.html
+result.json
